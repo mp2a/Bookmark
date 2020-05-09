@@ -1,4 +1,4 @@
-baseURL = "nice-privacy.netlify.app"
+baseURL = "https://nice-privacy.netlify.app"
 languageCode = "en-us"
 title = "Nice Privacy"
 theme = "hugonews"
