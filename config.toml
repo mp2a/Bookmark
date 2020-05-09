@@ -1,0 +1,9 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Nice Privacy"
+theme = "hugonews"
+
+[taxonomies]
+    tag = "tags"
+    category = "categories"
+    site = "sites"
