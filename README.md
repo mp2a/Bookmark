@@ -1,6 +1,4 @@
-**Nice Privacy** est un site pour lister les dernières informations qui traitent de la protection de la vie privée à Nice et ailleurs.
+**Nice Privacy** est un site pour lister les dernières informations qui traitent de la protection de la vie privée à Nice, France.
 
-N'hésitez pas à partager vous même des articles par Github ou simplement par e-mail.
-
-Bonne lecture.
+Vous pouvez partager des articles en ouvrant une [issue](https://github.com/mp2a/Bookmark/issues)
 
